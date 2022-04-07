@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF_8"?>
+<!DOCTYPE product
+[
+
+<!ELEMENT product (tuntunmoosanikiladoo)>
+<!ELEMENT tuntunmoosanikiladoo (Product_price,Product_material,Shop_Address,Contact)>
+<!ELEMENT Product_price (Per_ladu,Kilo_one_Ladu)>
+<!ELEMENT Shop_Address (Village_name,Area_Name,Shop_Number)>
+<!ELEMENT Contact (Email,Phone_Number,Facebook)>
+<!ELEMENT Per_ladu (#PCDATA)>
+<!ELEMENT Kilo_one_Ladu (#PCDATA)>
+<!ELEMENT Village_name (#PCDATA)>
+<!ELEMENT Product_material (#PCDATA)>
+<!ELEMENT Area_Name (#PCDATA)>
+<!ELEMENT Shop_Number (#PCDATA)>
+<!ELEMENT Email (#PCDATA)>
+<!ELEMENT Phone_Number (#PCDATA)>
+<!ELEMENT Facebook (#PCDATA)>
+
+]>
+
+ 
+  <product>
+      <tuntunmoosanikiladoo>
+         <Product_price>
+             <Per_ladu>Rs. 150</Per_ladu>
+              <Kilo_one_Ladu>Rs.500</Kilo_one_Ladu>
+          </Product_price>
+          <Product_material>Basin</Product_material>
+          <Shop_Address>
+             <Village_name>Dholakpur</Village_name>
+             <Area_Name>Chutki Ka Ghar</Area_Name>
+             <Shop_Number>No. 420</Shop_Number>
+          </Shop_Address>
+          <Contact>
+              <Email>abc@gmail.com</Email>
+              <Phone_Number>0999_999_999</Phone_Number>
+             <Facebook>www.abc.com/facebook.pk</Facebook>
+         </Contact>
+     </tuntunmoosanikiladoo>
+ </product>      
+  
+  
+  
+
+
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+ 
